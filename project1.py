@@ -1,6 +1,5 @@
 # Import the random module
 import random
-import emoji
 from datetime import datetime
 
 # Define the save function at the beginning
@@ -70,7 +69,7 @@ if input_user == 1:
         international_verb = random.choice(international_verbs)
         international_object = random.choice(international_objects)
         
-        head_line = f"{emoji.emojize}Breaking News: {international_subject} {international_verb} {international_object}"
+        head_line = f"Breaking News: {international_subject} {international_verb} {international_object}"
         print("\n\t", head_line, "\n")
         
         # Ask to save each headline
