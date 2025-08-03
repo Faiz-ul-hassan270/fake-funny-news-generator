@@ -29,8 +29,8 @@ From *Elon Musk launching a flying naan in Paris* to *a Pindi boy inventing a go
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-funny-news-generator.git
-cd fake-funny-news-generator
+git clone https://github.com/Faiz-ul-hassan270/fake-funny-news-generator.git
+cd project1.py
 
 Install Dependencies
 
